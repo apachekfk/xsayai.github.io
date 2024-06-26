@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25daca56-807a-4041-bf66-3e12ee1bd935" name="更改" comment="init">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-04-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-06-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-20-permutation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-12-hge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-24-gecko-embed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-01-mozilla-file-tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-17-windows-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-19-gecko-use-profile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-04-18-windows-ui-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-05-19-when-your-exe-name-contains-install-or-setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-06-22-multi-included-source-file.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-10-26-namespace-with-a-static-variable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-11-23-HFDP-Notes1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-03-HFDP-Notes2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-22-HFDP-Notes3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-19-excel-incommonuse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-07-pits-in-windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-10-numbersign.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-24-virtualfunctions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-31-HFDP-Note4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-01-comsketch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-29-acl-chapter2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-cppinit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-dllsearch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-19-fiddlerwithwinhttp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-20-fiddlercontextmenu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-01-deadlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-26-takephotos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-30-aboutlife.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-13-make-exe-small.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-27-myself.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-09-path-after-rename.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-12-csdnresautocomment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-28-sevenhabits.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-25-jestem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-06-emotion-manage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-07-habit-training-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-14-find-a-girl-friend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-21-vim-python-autocomplete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-31-simplify-apk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-01-19-printf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-01-some-impressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-14-strum-life.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-30-work-lesson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-singleton-process.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-03-java-date.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-06-dp-sp-px.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-06-android-studio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-09-no-need-to-tangle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-10-emacs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-java-compare.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-27-svn-exception.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-28-leader-art.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-01-sogou-hackathon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-12-wangxiaobo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-14-win-discuz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-23-vim-taglist-smali.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-08-fiddler-filter-by-device.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-23-busy-smart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-02-love.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-25-mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-25-without-internet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-31-pits-in-vimscript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-02-excel-sift.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-05-diff-between-gfm-and-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-java-object-finalize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-19-vim-markdown-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-12-use-ubuntu-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-14-android-system-cache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-16-build-zeal-for-mac-osx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-04-switch-to-kramdown-from-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-10-am-start-user-parameter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-14-show-chump.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-07-how-to-use-github-effective.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-18-develop-nodejs-with-atom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-20-determine-if-my-activities-foreground.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-21-enable-https-for-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-28-vim-kramdown-tab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-11-remove-https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-03-add-outline-for-markdown-in-vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-30-java-guide-to-cpp-programmers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-01-my-2016.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-19-the-kite-runner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-09-a-difficult-decision.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-20-java-auto-boxing-unboxing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-01-markdown-odd-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-11-joins-in-sql.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-23-rtfsc-android-start.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-05-rtfsc-methods-and-meaning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-14-guanggoo-android-app.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-24-1024-poses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-11-12-start-from-toast.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-03-tcp-connect-between-android-emulators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-30-guanggoo-android-app-new-version.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-11-handler-looper-massagequeue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-06-markdown-intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-20-my-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-25-a-stupid-bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-14-gitee-and-tapd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-21-namebase-airdrop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-01-base64-bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-07-get-an-in-depth-understanding-of-base64.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-cdn-for-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-03-blog-template-qna.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-04-paste-image-in-vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-17-learn-more-study-less.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-05-lindan-and-badminton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-07-cdn-for-github-pages-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-28-add-vscode-to-right-click.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-13-talk-about-threadsafe-with-arraylist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-27-intellij-idea-unsupported-java-version.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-06-19-xxl-job-sharding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-10-25-the-wisdom-of-life.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-26-spring-security.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-01-01-my-2021.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-02-12-zsh-completion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-02-19-compile-chaosblade-on-mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-06-iphone-vs-xiaomi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-09-22-enable-python3-in-macvim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-08-what-did-the-philosophers-do.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-22-oom-caused-by-groovy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-11-after-using-threadpool.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-10-can-this-log-print-work.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-26-java-swallow-stacktrace.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-02-just-so-so.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-24-a-way-to-increase-on-github.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-27-cache-design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-30-move-to-new-zookeeper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-31-mysql-deadlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-11-distributed-lock-failed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-16-kindle-tips-2023.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-17-kindle-tips-2023.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-18-kindle-tips-2023.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-09-21-arraylist-sublist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-08-what-to-do-after-mysql-been-hacked.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-18-why-always-results-true.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-19-when-provider-authorities-duplicated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-10-26-android-app-integrate-logback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-11-26-filco-keyboard-single-mode-to-three-mode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-09-ios-get-distribution-managed-certificates-finger-print-and-public-key.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-11-idea-freemarker-hot-reload.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-02-05-ikbc-c87-single-mode-to-three-mode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-02-27-github-starknet-airdrop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-03-01-layui-dynamic-search-select.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-03-04-how-to-receive-airdrop-to-github-users.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-03-14-excel-consider-1900-leap-year.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-03-21-there-are-masters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-03-28-github-used-by-event.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-10-kindle-tips-2024.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-17-listen-to-songs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-22-android-logback-no-output.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-24-gallery-demo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-29-java-list-remove-in-loop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-05-09-fix-aliyun-player-downloader-callback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-05-20-pagehelper-tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-06-07-read-lijuan-think-myself.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2iPbXBcrbOkj1bzmHSOiWyjWiEh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/xsayai.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;D:\\workspace\\xsayai.github.io\\node_modules\\stylelint&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="xsayai.github.io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="xsayai.github.io" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="25daca56-807a-4041-bf66-3e12ee1bd935" name="更改" comment="" />
+      <created>1719395196373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719395196373</updated>
+      <workItem from="1719395197494" duration="1224000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1719395654334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719395654334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
